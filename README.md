@@ -17,9 +17,9 @@ For example, the objects in the following images were detected using <https://mm
 **Dependencies (Level 3 Heading)**
 * python  
 * opencv-python  
-*tensorflow  
-*openmmlab  
-*package manager
+* tensorflow  
+* openmmlab  
+* package manager
 
 **Installation**
 
