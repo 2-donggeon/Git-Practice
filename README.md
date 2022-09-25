@@ -17,9 +17,8 @@ exit : exit the program
 
 ***  
 Below are illustrated examples  
-For example, the objects in the following images were detected using ![오픈소스 과제 이미지1(https://user-images.githubusercontent.com/112601402/192131367-93c708b9-a403-4464-9c50-4114ddf31139.png)
-8ad-e7fa473f8a50.png)]:  
-For example, the objects in the following images were detected using ![오픈소스 과제 이미지2(https://user-images.githubusercontent.com/112601402/192131350-f3f45931-33d2-4bcb-861b-454d58c7cf7c.png)]:  
+![오픈소스 과제 이미지1](https://user-images.githubusercontent.com/112601402/192131347-fa2c9322-5746-4f46-ace6-8c3a02621dd9.png)  
+![오픈소스 과제 이미지2](https://user-images.githubusercontent.com/112601402/192131350-f3f45931-33d2-4bcb-861b-454d58c7cf7c.png)  
 
 
 ***
