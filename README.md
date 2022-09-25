@@ -17,12 +17,10 @@ exit : exit the program
 
 ***  
 Below are illustrated examples  
-In order to build it, I will use opencv, deep learning libraries, such as <https://www.tensorflow.org/?hl=ko>  
-or <https://pytorch.org/tutorials/>, and other open source softwares.  
-  
-For example, the objects in the following images were detected using <https://mmdetection.readthedocs.io/en/latest/>:  
+For example, the objects in the following images were detected using <https://user-images.githubusercontent.com/112601402/192131367-93c708b9-a403-4464-9c50-4114ddf31139.png)
+8ad-e7fa473f8a50.png>:  
+For example, the objects in the following images were detected using <https://user-images.githubusercontent.com/112601402/192131350-f3f45931-33d2-4bcb-861b-454d58c7cf7c.png>:  
 
-[![userimage](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)](https://www.naver.com)
 
 ***
 
