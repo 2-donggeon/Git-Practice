@@ -16,7 +16,7 @@ exit : exit the program
 
 
 ***  
-I am planning to make a computer vision software that detects objects in images.  
+Below are illustrated examples  
 In order to build it, I will use opencv, deep learning libraries, such as <https://www.tensorflow.org/?hl=ko>  
 or <https://pytorch.org/tutorials/>, and other open source softwares.  
   
