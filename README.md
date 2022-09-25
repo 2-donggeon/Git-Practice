@@ -26,11 +26,10 @@ Below are illustrated examples
 ![오픈소스 과제 이미지3](https://user-images.githubusercontent.com/112601402/192131354-8ebf5a4c-f92d-452b-8681-2f53dcfe3e13.png)  
 *cd*  
 ![오픈소스 과제 이미지4](https://user-images.githubusercontent.com/112601402/192131356-ead102f5-83)
-*exit*  
+*c*  
 ![오픈소스 과제 이미지5](https://user-images.githubusercontent.com/112601402/192131362-33b38b8a-0a3d-46e1-aea4-26a6fee1f987.png)  
-*i*  
-![오픈소스 과제 이미지6](https://user-images.githubusercontent.com/112601402/192131367-93c708b9-a403-4464-9c50-4114ddf31139.png)
-8ad-e7fa473f8a50.png)  
+*exit*  
+![오픈소스 과제 이미지6](https://user-images.githubusercontent.com/112601402/192131367-93c708b9-a403-4464-9c50-4114ddf31139.png)  
 ***
 
 
