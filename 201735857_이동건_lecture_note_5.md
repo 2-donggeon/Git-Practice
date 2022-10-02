@@ -1,4 +1,4 @@
-# Shell Commands   
+# Shell commands  
 **How to Use  Commands**  
   
 *Commands cat*  
