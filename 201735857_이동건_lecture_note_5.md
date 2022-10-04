@@ -25,4 +25,4 @@ cat : cat command is a command that reads and modifies files
   ![git bash22](https://user-images.githubusercontent.com/112601402/193811412-c74b7fea-e8bd-4641-95ee-b81d9ff202bf.png)  
 **Commands history**  
 
-  ![git bash history](https://user-images.githubusercontent.com/112601402/193811481-1d6eed6e-c41b-4c82-96b5-c8d56f985a40.png)  
+  ![git bash history](https://user-images.githubusercontent.com/112601402/193811481-1d6eed6e-c41b-4c82-96b5-c8d56f985a40.png)
