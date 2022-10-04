@@ -5,13 +5,12 @@
 cat : cat command is a command that reads and modifies files  
 *Commands ">"*  
 ">" : you can save the file by using ">" after the command  
-*Commands >>*  
+*Commands ">>"*  
 ">>" : Using ">>" appends output to an extising file or create and write to a new file if it doesn't exist  
-*Fourth Step*  
-ls : pipeline feeds output of previous command to input of next command  
-*Five Step*  
-i : show detailed information  
-*Six Step*  
-clear : clean up your shell screen  
-*Seven Step*  
-exit : exit the program  
+*Commands "/"*  
+"/" : can use ignore hcange in command in multiple lines  
+*Commands "chmod"*  
+"chmod" : chmod changes the permissions of files or directories  
+*Commands "words.txt"*  
+"words.txt" : The permissions of the "words.txt"file can only be read and written by the user, but everyone else can read  
+  
